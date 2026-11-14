@@ -47,3 +47,13 @@ Initial data exploration, preprocessing, machine learning implementation and mod
 
 ## Repository Contents
 - `notebookf27f31d440.ipynb` – Complete analysis and machine learning implementation.
+
+## Research Publication & DOI
+
+This project is archived and published on Zenodo.
+
+- **Project:** Hospitality Business Performance & Customer Insights
+- **Version:** 1.0.0
+- **DOI:** https://doi.org/10.5281/zenodo.24223442
+- **Archive Platform:** Zenodo
+- **Source Code:** GitHub
